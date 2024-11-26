@@ -1,0 +1,5 @@
+print('Olá, mundo!')
+print('Hoje tem verdão')
+print('Estou com fome')
+print("Hoje é terça")
+print('Jabuticaba')
